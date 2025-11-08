@@ -3,11 +3,16 @@
 This project explores the application of Data Analytics and Machine Learning to predict currency exchange rates between USD and IDR.
 
 The study compares three time-series forecasting models:
--ARIMA
--Facebook Prophet (fbprophet)
--Long Short-Term Memory (LSTM)
+  -ARIMA
+  -Facebook Prophet (fbprophet)
+  -Long Short-Term Memory (LSTM)
 
 All of these models using both univariate and multivariate datasets derived from historical financial data and economic indicators (except for ARIMA which only handles the univariate dataset).
+
+## Pre-requisites
+  - Install Python (latest)
+  - Ensure all tools and library are installed
+  - Ensure all data is available
 
 ## Data Description
 
