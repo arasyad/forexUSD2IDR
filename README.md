@@ -17,7 +17,7 @@ All of these models using both univariate and multivariate datasets derived from
 ## Data Description
 
 1. Historical exchange rates between USD (United States Dollar) and IDR (Indonesian Rupiah) via Yahoo Finance (yfinance)
-2. Macroeconomic Data (Interest Rate, Inflation Rate, Trade Balance, Current Account, Foreign Exhange Reserve)
+2. Macroeconomic Data (Interest Rate, Inflation Rate, Trade Balance, Current Account, Foreign Exhange Reserve) *to be provided later*
 
 ## Tools and Library
 
